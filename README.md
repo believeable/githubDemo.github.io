@@ -1,9 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My note
 
-You can use the [editor on GitHub](https://github.com/believeable/githubDemo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1.Java note()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2.Html+css+javascript note()
 
+3.JavaWeb note()
+
+4.frame note()
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
